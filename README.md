@@ -1,2 +1,2 @@
-# tut1
-Denys Ratushniak 12c s18289
+# tutorial1
+Denys Ratushniak s18289 12c
